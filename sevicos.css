@@ -1,0 +1,100 @@
+h1{
+    background-color: rgb(240, 4, 4);
+}
+body{
+    background-color: rgb(161, 7, 7);
+}
+
+nav li {
+    display:inline;
+    margin-right:19px;
+}
+
+nav a:hover{
+    color:rgb(247, 242, 242) ;
+    text-decoration: underline;
+}
+
+nav a{
+    text-transform:uppercase;
+    color: rgb(20, 13, 13);
+    font-weight: bold;
+    font-size: 70px;
+    text-decoration: none;
+}
+nav {
+    position:absolute;
+    top: 100px;
+    right: 0px;
+}
+.caixa{
+    position: relative;
+    margin:0px auto;
+}
+
+.logotipo{
+    width: 270px;
+}
+header{
+    background-color: rgb(240, 4, 4);
+}
+.servicos {
+    width: 940px;
+    margin: 0 auto;
+}
+.servicos li {
+display: inline-block;
+text-align: center;
+width: 30%;
+vertical-align: top;
+margin: 0 1.5%;
+padding: 30px 0px;
+box-sizing: border-box;
+border:4px solid black;
+border-radius: 13px;
+}
+.servicos li :hover{
+    border-color: white;
+}
+
+.servicos li:hover h2{
+    font-size: 34px;
+    color: white;
+}
+.servicos li:active{
+    border-color: white;
+}
+.servicos img{
+    width: 240px;
+    height: 240px;;
+}
+
+.servicos h2{
+    font-size: 30px;
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+.descricao {
+    font-size: 18px;
+}
+.preco {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+footer{
+    text-align: center;
+    background: url("footer bg.jpg");
+    padding: 40px;
+}
+
+footer img{
+    width: 10%;
+}
+
+.copyright {
+   font-size: 13px;
+   margin: 20px 0 ;
+   color: white;
+}
