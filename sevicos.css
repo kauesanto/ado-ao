@@ -1,5 +1,5 @@
 h1{
-    background-color: rgb(240, 4, 209);
+    background-color: rgb(250, 3, 213);
 }
 body{
     background-color: rgb(248, 244, 244);
@@ -33,10 +33,10 @@ nav {
 }
 
 .logotipo{
-    width: 270px;
+    width: 280px;
 }
 header{
-    background-color: rgb(220, 4, 240);
+    background-color: rgb(110, 14, 134);
 }
 .servicos {
     width: 940px;
@@ -45,7 +45,7 @@ header{
 .servicos li {
 display: inline-block;
 text-align: center;
-width: 30%;
+width: 40%;
 vertical-align: top;
 margin: 0 1.5%;
 padding: 30px 0px;
@@ -70,27 +70,23 @@ border-radius: 13px;
 }
 
 .servicos h2{
-    font-size: 30px;
+    font-size: 40px;
     font-weight: bold;
-    padding-bottom: 15px;
+    padding-bottom: 40px;
 }
 .descricao {
-    font-size: 18px;
+    font-size: 40px;
 }
-.preco {
-    font-size: 22px;
-    font-weight: bold;
-    margin-top: 10px;
-}
+
 
 footer{
     text-align: center;
     background: url("miados\ elatidos.png");
-    padding: 40px;
+    padding: 50px;
 }
 
 footer img{
-    width: 10%;
+    width: 40%;
 }
 
 .copyright {

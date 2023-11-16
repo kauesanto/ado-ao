@@ -2,12 +2,12 @@ h1{
     background-color: rgb(220, 4, 240);
 }
 body{
-    background-color: rgb(148, 7, 161);
+    background-color: rgb(173, 13, 173)
 }
 
 nav li {
-    display:inline;
-    margin-right:19px;
+    display:inline ;
+    margin-right:20px;
 }
 
 nav a:hover{
@@ -33,7 +33,7 @@ nav {
 }
 
 .logotipo{
-    width: 270px;
+    width: 277px;
 }
 header{
     background-color: rgb(243, 238, 238);
@@ -44,7 +44,7 @@ header{
 }
 .servicos li {
 display: inline-block;
-text-align: center;
+text-align:left;
 width: 30%;
 vertical-align: top;
 margin: 0 1.5%;
@@ -58,44 +58,40 @@ border-radius: 13px;
 }
 
 .servicos li:hover h2{
-    font-size: 34px;
+    font-size: 26px;
     color: white;
 }
 .servicos li:active{
     border-color: white;
 }
 .servicos img{
-    width: 240px;
-    height: 240px;;
+    width: 200px;
+    height: 200px;;
 }
 
 .servicos h2{
     font-size: 30px;
     font-weight: bold;
-    padding-bottom: 15px;
+    padding-bottom: 20px;
 }
 .descricao {
-    font-size: 18px;
+    font-size: 40px;
 }
-.preco {
-    font-size: 22px;
-    font-weight: bold;
-    margin-top: 10px;
-}
+
 
 footer{
     text-align: center;
     background: url("");
-    padding: 40px;
+    padding: 70px;
 }
 
 footer img{
-    width: 10%;
+    width: 27%;
 }
 
 .copyright {
-   font-size: 13px;
-   margin: 20px 0 ;
+   font-size: 25px;
+   margin: 0px 0  ;
    color: white;
 }
 
@@ -123,7 +119,7 @@ form label, form p {
 }
 
 .checkbox{
-    margin: 20px 0;
+    margin: 30px 0;
 }
 
 .enviar {
@@ -163,12 +159,12 @@ td,th{
 /*css da pagina inicial*/
 
 .imagem{
-    width: 100%;
-    height: 100%;
+    width: 25%;
+    height: 25%;
 }
 
 .titulo-principal{
-    text-align: center;
+    text-align:center;
     font-size: 2em;
     margin: 0 0 1em;
     clear: left;
@@ -184,7 +180,7 @@ td,th{
 } 
 
 .imagem-principal{
-    width: 120px;
-  float: left; 
-  margin: 0 20px 20px 0; 
+    width: 280px;
+  float:left; 
+  margin: 0 40px 40px 0; 
 }
