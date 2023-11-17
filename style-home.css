@@ -1,5 +1,6 @@
 h1 {
-    text-align: center;
+    text-align: center ;
+    margin-top: 70px;
     color: rgb(17, 13, 13);
     font-size: 60px;
     font-style:italic 
@@ -29,7 +30,7 @@ b{
 }
 
 .contato{
-  background-color: rgb(228, 9, 236);
+  background-color: rgb(223, 216, 223);
   width: auto;
   border-radius: 30px;
   border-color: rgb(22, 15, 15);
@@ -37,7 +38,7 @@ b{
 }
 
 .texto{
-  background-color: rgb(14, 13, 13);
+  background-color: rgb(204, 195, 195);
   width: 50;
   border-radius: 37px;
   margin: auto;

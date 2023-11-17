@@ -33,10 +33,10 @@ nav {
 }
 
 .logotipo{
-    width: 280px;
+    width: 110px;
 }
 header{
-    background-color: rgb(110, 14, 134);
+    background-color: rgb(218, 209, 218);
 }
 .servicos {
     width: 940px;
@@ -81,16 +81,16 @@ border-radius: 13px;
 
 footer{
     text-align: center;
-    background: url("miados\ elatidos.png");
-    padding: 50px;
+    background:url(miados\ elatidos.png);
+    padding: 30px;
 }
 
 footer img{
-    width: 40%;
+    width: 20%;
 }
 
 .copyright {
-   font-size: 13px;
+   font-size: 23px;
    margin: 20px 0 ;
    color: white;
 }

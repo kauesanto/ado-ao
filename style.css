@@ -86,12 +86,12 @@ footer{
 }
 
 footer img{
-    width: 27%;
+    width: 20%;
 }
 
 .copyright {
    font-size: 25px;
-   margin: 0px 0  ;
+   margin: 20px 20  ;
    color: white;
 }
 
@@ -145,7 +145,7 @@ table {
 }
 
 thead{
-    background:rgb(7, 7, 7);
+    background:rgb(238, 5, 191);
     color: rgb(241, 230, 230);
     font-weight: bold;
 }
@@ -159,8 +159,8 @@ td,th{
 /*css da pagina inicial*/
 
 .imagem{
-    width: 25%;
-    height: 25%;
+    width: 20%;
+    height: 20%;
 }
 
 .titulo-principal{
@@ -168,7 +168,7 @@ td,th{
     font-size: 2em;
     margin: 0 0 1em;
     clear: left;
-
+margin-top: 50px;
 }
 
 .texto, .contato{
@@ -180,7 +180,7 @@ td,th{
 } 
 
 .imagem-principal{
-    width: 280px;
+    width: 220px;
   float:left; 
   margin: 0 40px 40px 0; 
 }
